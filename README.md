@@ -11,7 +11,7 @@ My name is Abraham, and I'm a Software developer from Kenya.
 
 ## Technologies & Tools
 
-
+<span style="display: flex;">
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo"  />
     <br/>Vue.js
@@ -51,6 +51,6 @@ My name is Abraham, and I'm a Software developer from Kenya.
     <br/>Java
   </div>
 </div>
-
+</span>
 
 
