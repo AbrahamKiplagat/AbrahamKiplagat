@@ -1,4 +1,4 @@
-style this github profile readme nicely:<h1 align="left">Hello 👋 What's up?</h1>
+<h1 align="left">Hello 👋 What's up?</h1>
 
 ###
 
