@@ -8,7 +8,7 @@
 
 <h2 align="left">Technologies & Tools</h2>
 
-<div align="left" display="flex">
+<div align="left" style="display: flex;">
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo"  />
     <br>Vue.js
