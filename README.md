@@ -9,43 +9,43 @@
 <h2 align="left">Technologies & Tools</h2>
 
 <div align="left">
-  <div style="text-align: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo"  />
-    <br><span>Vue.js</span>
+    <br>Vue.js
   </div>
   
-  <div style="text-align: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="Nuxt.js logo"  />
-    <br><span>Nuxt.js</span>
+    <br>Nuxt.js
   </div>
-
-  <div style="text-align: center;">
+  
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo"  />
-    <br><span>MongoDB</span>
+    <br>MongoDB
   </div>
-
-  <div style="text-align: center;">
+  
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
-    <br><span>MySQL</span>
+    <br>MySQL
   </div>
-
-  <div style="text-align: center;">
+  
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"  />
-    <br><span>PHP</span>
+    <br>PHP
   </div>
-
-  <div style="text-align: center;">
+  
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel logo"  />
-    <br><span>Laravel</span>
+    <br>Laravel
   </div>
-
-  <div style="text-align: center;">
+  
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo"  />
-    <br><span>Kotlin</span>
+    <br>Kotlin
   </div>
-
-  <div style="text-align: center;">
+  
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
-    <br><span>Java</span>
+    <br>Java
   </div>
 </div>
