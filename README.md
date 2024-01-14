@@ -1,39 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* Add this style to make the container flex with row direction */
-    .horizontal-container {
-      display: flex;
-      flex-direction: row;
-    }
+# Hello 👋 What's up?
 
-    /* Optional: Add some margin or spacing between items */
-    .horizontal-container > div {
-      margin-right: 20px;
-    }
-  </style>
-  <title>Horizontal Display</title>
-</head>
-<body>
+My name is Abraham, and I'm a Software developer from Kenya.
 
-<div class="horizontal-container">
+## About me
+
+✨ Creating bugs since 2022  
+📚 I'm currently learning Vue.js and Nuxt.js  
+🎯 Goals: Creating an impact on the community  
+🎲 Fun fact: Learning never ends.
+
+## Technologies & Tools
+
+<div align="left" style="display: flex;">
   <div>
-    <h1 align="left">Hello 👋 What's up?</h1>
-    <p align="left">My name is Abraham and I'm a Software developer from Kenya.</p>
-    <h2 align="left">About me</h2>
-    <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Vue.js and Nuxt.js<br>🎯 Goals: Creating an impact on the community<br>🎲 Fun fact: Learning never ends.</p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo"  />
+    <br>Vue.js
   </div>
-
-  <div>
-    <h2 align="left">Technologies & Tools</h2>
-    <div align="left" style="display: flex;">
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo"  />
-        <br>Vue.js
-      </div>
     <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="Nuxt.js logo"  />
     <br>Nuxt.js
@@ -70,9 +52,5 @@
   </div>
 </div>
 
-    </div>
-  </div>
-</div>
 
-</body>
-</html>
+</div>
