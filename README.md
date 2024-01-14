@@ -1,18 +1,24 @@
-# Hello 👋 What's up?
+<h1 align="left">Hello 👋 What's up?</h1>
 
-My name is Abraham, and I'm a Software Developer from Kenya.
+###
 
-## About me
+<p align="left">My name is Abraham, and I'm a Software Developer from Kenya.</p>
 
-✨ Creating bugs since 2022  
-📚 Currently learning Vue.js and Nuxt.js  
-🎯 Goals: Making a positive impact on the community  
-🎲 Fun fact: Learning never ends.
+###
 
-## Technologies & Tools
+<h2 align="left">About me</h2>
 
-<span style="display: flex;">
+###
 
+<p align="left">✨ Creating bugs since 2022<br>📚 Currently learning Vue.js and Nuxt.js<br>🎯 Goals: Creating an impact on the community<br>🎲 Fun fact: Learning never ends.</p>
+
+###
+
+<h2 align="left">Technologies & Tools</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
   <br/>Vue.js
 
@@ -36,5 +42,6 @@ My name is Abraham, and I'm a Software Developer from Kenya.
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <br/>Java
+</div>
 
-</span>
+###
