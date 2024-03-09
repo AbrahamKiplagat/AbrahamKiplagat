@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 Currently learning Vue.js and Nuxt.js<br>🎯 Goals: Creating an impact on the community<br>🎲 Fun fact: Learning never ends.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 Currently learning Vue.js and Nuxt.js<br>🎯 Goals: Creating an impact on the community<br>🎲 Fun fact: Javascript isn't Java.</p>
 
 ###
 
