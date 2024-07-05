@@ -35,5 +35,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
 </div>
 
-###
-![snake animation](https://github.com/AbrahamKiplagat/AbrahamKiplagat/blob/output/github-contribution-grid-snake.svg)
+
