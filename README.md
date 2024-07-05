@@ -36,5 +36,4 @@
 </div>
 
 ###
-
- <img src="https://github.com/AbrahamKiplagat/AbrahamKiplagat/blob/output/github-contribution-grid-snake.svg" height="40" alt="Firebase logo" />
+![snake animation](https://github.com/AbrahamKiplagat/AbrahamKiplagat/blob/output/github-contribution-grid-snake.svg)
