@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abraham, and I'm a Software Developer from Kenya.</p>
+<p align="left">My name is Abraham, and I'm a Software Developer from Nairobi Kenya,<br> currently I have been working on Church Sermons Application,<br> and learning about ui design flow with figma.<br>lets connect, learn and grow together</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 Currently learning Lua and love2d<br>🎯 Goals: Creating an impact on the community<br>🎲 Fun fact: JavaScript isn't Java.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 Currently learning Lua and love2d<br>🎲 Fun fact: JavaScript isn't Java.</p>
 
 ###
 
