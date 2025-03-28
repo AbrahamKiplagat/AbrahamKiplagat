@@ -26,6 +26,7 @@
   <img src="https://github.com/AbrahamKiplagat/AbrahamKiplagat/assets/110113737/4405d705-fd32-4926-825f-4c7fe50fcf85" height="40" alt="Flutter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
-  <img src="https://iconduck.com/icons/27628/lua" height="40" alt="Lua logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua logo" />
+
 </div>
 
