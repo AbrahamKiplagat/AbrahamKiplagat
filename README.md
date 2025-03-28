@@ -1,14 +1,10 @@
 <h1 align="center">Hello 👋, I'm Abraham Kiplagat Kurere</h1>
 <h3 align="center">🚀 Software Developer | Passionate about Building Scalable Applications</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F76C6C&center=true&vCenter=true&width=600&lines=Software+Developer+from+Nairobi+Kenya;10%2B+Years+of+Coding+Experience;Flutter+%7C+Nuxt.js+%7C+python+React.js+%7C+%7C+Node.js+%7C+MongoDB;Building+Church+Sermons+and+Video-Sharing+Platforms" alt="Typing SVG">
-</p>
-
 ---
 
 ### 📌 About Me  
-- 💡 **Currently Working On**: Church Sermons App & Video-Sharing Platform  
+- 💡 **Currently Working On**: Church Sermons App & Events Management System  
 - 🎯 **Learning**: Lua Game Development, Figma UI/UX Design  
 - 💬 **Ask Me About**: Flutter, Node.js, MongoDB, Vue.js, Payment Integrations  
 - 🎨 **Interests**: UI/UX Design, AI, and Game Development  
