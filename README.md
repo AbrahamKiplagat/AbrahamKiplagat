@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer | Passionate about Building Scalable Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F76C6C&center=true&vCenter=true&width=600&lines=Software+Developer+from+Kenya;10%2B+Years+of+Coding+Experience;Flutter+%7C+Vue.js+%7C+Node.js+%7C+MongoDB;Building+Church+Sermons+and+Video-Sharing+Platforms" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F76C6C&center=true&vCenter=true&width=600&lines=Software+Developer+from+Nairobi+Kenya;10%2B+Years+of+Coding+Experience;Flutter+%7C+Nuxt.js+%7C+python+React.js+%7C+%7C+Node.js+%7C+MongoDB;Building+Church+Sermons+and+Video-Sharing+Platforms" alt="Typing SVG">
 </p>
 
 ---
@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://iconduck.com/icons/27628/lua" height="50" alt="Lua" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="Lua" />
 </p>
 
 ---
