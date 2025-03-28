@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 Currently learning Lua and love2d<br>🎲 Fun fact: JavaScript isn't Java.</p>
+<p align="left">✨ Creating software solutions since 2022<br>📚 Currently learning Lua and love2d<br>🎲 Fun fact: JavaScript isn't Java.</p>
 
 ###
 
