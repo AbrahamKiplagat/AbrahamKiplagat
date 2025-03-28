@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abraham, and I'm a Software Developer from Nairobi Kenya,<br> currently I have been working on Church Sermons Application,<br> and learning about ui design flow with figma.<br>lets connect, learn and grow together</p>
+<p align="left">My name is Abraham, and I'm a Software Developer from Nairobi Kenya,<br> currently I have been working on Church Sermons Application,<br> and learning about: Lua programming language and ui design flow with figma.<br>lets connect, learn and grow together</p>
 
 ###
 
