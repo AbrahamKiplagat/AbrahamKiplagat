@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Abraham Kiplagat Kurere</h1>
-<h3 align="center">🚀 Software Developer | Passionate about Building Scalable Applications</h3>
+<h3 align="center">🚀 Software Developer | Full-Stack developer | Passionate about Building Scalable Applications</h3>
 
 ---
 
