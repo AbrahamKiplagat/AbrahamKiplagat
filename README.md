@@ -5,7 +5,8 @@
 
 ### 📌 About Me  
 - 💡 **Currently Working On**: Church Sermons App & Events Management System  
-- 🎯 **Learning**: Lua Game Development, Figma UI/UX Design  
+- 🎯 **Learning**: Lua Game Development, Figma UI/UX Design
+- 🎯**Goals**: achieving proficiency in a variety of programming languages and frameworks
 - 💬 **Ask Me About**: Flutter, Node.js, MongoDB, Vue.js, Payment Integrations  
 - 🎨 **Interests**: UI/UX Design, AI, and Game Development  
 
