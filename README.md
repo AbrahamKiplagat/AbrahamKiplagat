@@ -1,13 +1,13 @@
-<h1 align="center">Hello 👋, I'm Abraham Kiplagat Kurere</h1>
+<h1 align="center">Hello 👋, I'm Abraham</h1>
 <h3 align="center">🚀 Software Developer | Full-Stack developer | Passionate about Building Scalable Applications</h3>
 
 ---
 
 ### 📌 About Me  
-- 💡 **Currently Working On**: Church Sermons App & Events Management System  
-- 🎯 **Learning**: Lua Game Development, Figma UI/UX Design
+- 💡 **Currently Working On This Projects:**: Video Sharing Platform  
+- 🎯 **Learning**: Lua Game Development, machine learning, Figma UI/UX Design
 - 🎯**Goals**: achieving proficiency in a variety of programming languages and frameworks
-- 💬 **Ask Me About**: Flutter, Node.js, MongoDB, Vue.js, Payment Integrations  
+- 💬 **Ask Me About**: Flutter, Node.js, MongoDB, Nuxt.js.  
 - 🎨 **Interests**: UI/UX Design, AI, and Game Development  
 
 ---
