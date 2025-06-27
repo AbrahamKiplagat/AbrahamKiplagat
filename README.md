@@ -29,6 +29,5 @@
 +-------------------------------+-------------------------------+-------------------------------+-------------------------+
                                ✨ Commission your next digital masterpiece today! ✨
 ```
-<h1 align="right"> 📊 GitHub Stats</h1>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Commits" alt="Commit Activity Graph" width="100%"/>  <
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Commits" alt="Commit Activity Graph" width="100%"/>
 
