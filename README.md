@@ -15,6 +15,13 @@
 |          🎭 Kiplah Art's - Where Code Meets Creativity 🎭          |
 |               A B R A H A M   K I P L A G A T                       |
 +---------------------------------------------------------------------+
+                      Fullstack Dev
+                          |
+      +-------------------+--------------------+
+      |                   |                    |
+   Frontend           Backend              Tooling/DevOps
+      |                   |                    |
+[ Flutter, React ]   [ Node.js, Firebase ]  [ Git, CI/CD, Docker ]
 
 +-------------------------------+-------------------------------+-------------------------------+
 |        🎨 Frontend           |        ⚙️ Backend             |        🎮 Creative            |
