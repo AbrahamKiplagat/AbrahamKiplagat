@@ -38,7 +38,6 @@
 ---
 ## 📊 Mega Stats Dashboard
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrahamKiplagat&theme=github_dark" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbrahamKiplagat&theme=github_dark" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbrahamKiplagat&theme=github_dark" width="49%"/>
 
 ---
@@ -47,11 +46,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Commits" alt="Commit Activity Graph" width="100%"/>
 </p>
----
-## 🌐 Coding Activity
 
-### Monthly Overview
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=github-compact)](https://github.com/AbrahamKiplagat)
 
-### Daily Contributions
-![Contribution Calendar](https://ghchart.rshah.org/2CA5E0/AbrahamKiplagat)
