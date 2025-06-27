@@ -34,9 +34,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbrahamKiplagat&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahamKiplagat&theme=radical" height="180px"/>
 </p>
-## 🔥 Coding Time This Week
-<!-- Requires CodeTime integration -->
-<img src="https://img.shields.io/endpoint?url=https://codetime-api.herokuapp.com/user/AbrahamKiplagat/badge" alt="Code Time"/>
+
+---
+## 📊 Mega Stats Dashboard
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrahamKiplagat&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbrahamKiplagat&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbrahamKiplagat&theme=github_dark" width="49%"/>
+
+---
 ## 📅 Daily Commit Activity
 <!-- Bar chart of last 30 days' commits -->
 <p align="center">
