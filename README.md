@@ -31,11 +31,15 @@
                  \______________________________/
                           \___________________/
                                    \_______/
-
+  _____________________________
+ /                             \
+|  Flutter  🎯  Vue.js  🎯  React |
+|  Node.js  🎯  MongoDB 🎯  Firebase |
+|  Python   🎯  Lua     🎯  Blender |
+ \_____________🎨🎨🎨_____________/
 
 ## 🎨 About The Artist
 
-```diff
 + 💡 Currently painting: Video Sharing Platform canvas
 ! 🎨 Learning new brush techniques:
   - Lua Game Dev 🎮
@@ -46,48 +50,6 @@
 ? Ask me about: Flutter | Node.js | MongoDB | Nuxt.js
 ```
   
-# ✨ Hello World, I'm Abraham ✨
-
-### 🚀 Full-Stack Alchemist • UI/UX Artisan • Game Dev Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Turning+coffee+into+code+since+2020;Building+scalable+digital+experiences;3D+game+developer+in+the+making" alt="Typing animation" />
-
-</div>
-
----
-
-## 🎨 About Me
-
-<div style="background: rgba(56, 139, 253, 0.15); padding: 20px; border-radius: 10px; border-left: 4px solid #388bfd;">
-
-🔭 **Crafting** a next-gen Video Sharing Platform  
-🌱 **Growing** in: `Lua` `Game Dev` `ML` `Figma` `Blender`  
-🎯 **Vision**: Mastering the full-stack spectrum + 3D game engine development  
-💬 **Expertise**: Flutter | Node.js | MongoDB | Nuxt.js  
-✨ **Passions**: Beautiful interfaces, intelligent systems, immersive worlds  
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center" style="margin: 40px 0;">
-
-### 🎨 Frontend
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-### 🎮 Creative
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
