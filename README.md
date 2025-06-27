@@ -1,11 +1,3 @@
-<h1 align="center">Hello 👋, I'm Abraham</h1>
-<h3 align="center">🚀 Software Developer | Full-Stack Developer | Passionate about Building Scalable Applications</h3>
-<p align="center">
-  👨‍💻 All of my projects are available at <a href="https://your-portfolio-link.com" target="_blank">portfolio</a>
-</p>
-
-<h1 align="center">🚀 Technologies & Tools </h1>
-
 ```diff
 +-------------------------------+-------------------------------+-------------------------------+
 |        🎨 Frontend           |        ⚙️ Backend            |        🎮 Creative           |
