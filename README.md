@@ -4,10 +4,10 @@
 ---
 
 ### 📌 About Me  
-- 💡 **Currently Working On This Projects:**: Video Sharing Platform  
-- 🎯 **Learning**: Lua Game Development, machine learning, Figma UI/UX Design,  Descrete Mathematics, Calculus, Matrices, Basic Electronics, Algebra,  Blender.
-- 🎯**Goals**: achieving proficiency in a variety of programming languages and frameworks and  developing a 3d game in future.
-- 💬 **Ask Me About**: Flutter, Node.js, MongoDB, Nuxt.js.  
+- 💡 **Currently Working On**: Video Sharing Platform  
+- 🎯 **Learning**: Lua Game Development, Machine Learning, Figma UI/UX Design, Discrete Mathematics, Calculus, Matrices, Basic Electronics, Algebra, Blender.
+- 🎯 **Goals**: Achieving proficiency in multiple programming languages and frameworks, developing a 3D game in the future.
+- 💬 **Ask Me About**: Flutter, Node.js, MongoDB, Nuxt.js  
 - 🎨 **Interests**: UI/UX Design, AI, and Game Development  
 
 ---
@@ -35,19 +35,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahamKiplagat&theme=radical" height="180px"/>
 </p>
 
----
-
-## 🌍 Connect With Me  
-
+## 📅 Daily Coding Activity  
+<!-- Contribution graph - works for private repos too -->
 <p align="center">
-  <a href="https://x.com/Kiplah718071">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)">
-  </a>
-  <a href="https://www.linkedin.com/in/abraham-kiplagat-237226241/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <img src="https://ghchart.rshah.org/AbrahamKiplagat" alt="Abraham's Contribution Chart" />
 </p>
 
----
+<!-- Alternative (more detailed) -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true" alt="Daily Coding Activity"/>
+</p>
 
-✨ **Let's Code, Innovate, and Grow Together!** 🚀  
