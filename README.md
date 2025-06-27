@@ -4,7 +4,7 @@
 ---
 
 ### 📌 About Me  
-- 💡 **Currently Working On**: Video Sharing Platform  
+- 💡 **Currently Studying**: Computer Science L6.  
 - 🎯 **Learning**: Lua Game Development, Machine Learning, Figma UI/UX Design, Discrete Mathematics, Calculus, Matrices, Basic Electronics, Algebra, Blender.
 - 🎯 **Goals**: Achieving proficiency in multiple programming languages and frameworks, developing a 3D game in the future.
 - 💬 **Ask Me About**: Flutter, Node.js, MongoDB, Nuxt.js  
