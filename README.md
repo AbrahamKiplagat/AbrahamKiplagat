@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Abraham</h1>
 <h3 align="center">🚀 Software Developer | Full-Stack developer | Passionate about Building Scalable Applications</h3>
-----------------------------------------------------------
-<h1 align="center">🚀 Technologies & Tools</h1>
+<h1 align="center">🚀 Technologies & Tools </h1>
 ```diff
   _________________________________________________________
  /                                                         \
@@ -11,7 +10,6 @@
 |  React    🎨  Nuxt.js  | Firebase 🔥  Python  | Figma ✏️  Three.js |
  \_________________________________________________________/
 ```
-----------------------------------------------------------------
 <h1 align="center"> 📊 GitHub Stats</h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AbrahamKiplagat&show_icons=true&theme=radical" height="180px"/>
