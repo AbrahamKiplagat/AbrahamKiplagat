@@ -13,20 +13,13 @@
 ---
 
 ## 🚀 Technologies & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="Lua" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" alt="Nuxt.js" />
-</p>
+  _________________________________________________________
+ /                                                         \
+|   🎨 Frontend Brushes   |   ⚙️ Backend Tools   |   🎮 Creative Toys  |
+| --------------------------------------------------------- |
+|  Flutter  🖌️  Vue.js   | Node.js  🔧  MongoDB | Blender 🗿  Lua    |
+|  React    🎨  Nuxt.js  | Firebase 🔥  Python  | Figma ✏️  Three.js |
+ \_________________________________________________________/
 
 ## 📊 GitHub Stats  
 
@@ -46,5 +39,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Commits" alt="Commit Activity Graph" width="100%"/>
 </p>
+---
+
+## 📈 Yearly Commits Graph
+
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api?username=AbrahamKiplagat&scheme=nightowl&grid=1&radius=10&column=12" alt="Yearly Commits Graph" width="100%"/>
+</p>
+
 
 
