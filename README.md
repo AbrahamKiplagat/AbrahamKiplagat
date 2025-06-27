@@ -42,10 +42,10 @@
 </p>
 ---
 
-## 📈 Yearly Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=github-compact&area=true&hide_border=true&custom_title=My%20Yearly%20Contribution%20Graph" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbrahamKiplagat&theme=radical&no-bg=true&margin-w=10" />
 </p>
 
 
