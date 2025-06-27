@@ -13,6 +13,7 @@
 ---
 
 ## 🚀 Technologies & Tools
+```diff
   _________________________________________________________
  /                                                         \
 |   🎨 Frontend Brushes   |   ⚙️ Backend Tools   |   🎮 Creative Toys  |
@@ -20,7 +21,7 @@
 |  Flutter  🖌️  Vue.js   | Node.js  🔧  MongoDB | Blender 🗿  Lua    |
 |  React    🎨  Nuxt.js  | Firebase 🔥  Python  | Figma ✏️  Three.js |
  \_________________________________________________________/
-
+```
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -41,11 +42,12 @@
 </p>
 ---
 
-## 📈 Yearly Commits Graph
+## 📈 Yearly Contribution Graph
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api?username=AbrahamKiplagat&scheme=nightowl&grid=1&radius=10&column=12" alt="Yearly Commits Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=github-compact&area=true&hide_border=true&custom_title=My%20Yearly%20Contribution%20Graph" width="100%"/>
 </p>
+
 
 
 
