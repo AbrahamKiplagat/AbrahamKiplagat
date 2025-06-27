@@ -2,16 +2,6 @@
 <h3 align="center">🚀 Software Developer | Full-Stack developer | Passionate about Building Scalable Applications</h3>
 
 ---
-
-### 📌 About Me  
-- 💡 **Currently Studying**: Computer Science L6.  
-- 🎯 **Learning**: Lua Game Development, Machine Learning, Figma UI/UX Design, Discrete Mathematics, Calculus, Matrices, Basic Electronics, Algebra, Blender.
-- 🎯 **Goals**: Achieving proficiency in multiple programming languages and frameworks, developing a 3D game in the future.
-- 💬 **Ask Me About**: Flutter, Node.js, MongoDB, Nuxt.js  
-- 🎨 **Interests**: UI/UX Design, AI, and Game Development  
-
----
-
 ## 🚀 Technologies & Tools
 ```diff
   _________________________________________________________
@@ -30,26 +20,12 @@
 </p>
 
 ---
-## 📊 Mega Stats Dashboard
+## 📊Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrahamKiplagat&theme=github_dark" width="100%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbrahamKiplagat&theme=github_dark" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Commits" alt="Commit Activity Graph" width="100%"/>  <img src="https://komarev.com/ghpvc/?username=AbrahamKiplagat&label=Profile%20views&color=0e75b6&style=flat" alt="AbrahamKiplagat" />
+<img src="https://github-profile-trophy.vercel.app/?username=AbrahamKiplagat&theme=radical&no-bg=true&margin-w=10" />
 
----
-## 📅 Daily Commit Activity
-<!-- Bar chart of last 30 days' commits -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Commits" alt="Commit Activity Graph" width="100%"/>
-</p>
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbrahamKiplagat&label=Profile%20views&color=0e75b6&style=flat" alt="AbrahamKiplagat" />
-</p>
----
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbrahamKiplagat&theme=radical&no-bg=true&margin-w=10" />
-</p>
 
 
 
