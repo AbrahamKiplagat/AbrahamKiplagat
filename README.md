@@ -41,7 +41,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Commits" alt="Commit Activity Graph" width="100%"/>
 </p>
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbrahamKiplagat&label=Profile%20views&color=0e75b6&style=flat" alt="AbrahamKiplagat" />
+</p>
+---
 ## 🏆 GitHub Trophies
 
 <p align="center">
