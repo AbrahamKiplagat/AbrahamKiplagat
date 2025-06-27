@@ -35,10 +35,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahamKiplagat&theme=radical" height="180px"/>
 </p>
 
-## 📅 Daily Coding Activity  
-<!-- Contribution graph - works for private repos too -->
+## 📅 Daily Commit Activity
+<!-- Bar chart of last 30 days' commits -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/AbrahamKiplagat" alt="Abraham's Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Commits" alt="Commit Activity Graph" width="100%"/>
 </p>
 
 <!-- Alternative (more detailed) -->
