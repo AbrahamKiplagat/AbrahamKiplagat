@@ -5,8 +5,8 @@
 
 ### 📌 About Me  
 - 💡 **Currently Working On This Projects:**: Video Sharing Platform  
-- 🎯 **Learning**: Lua Game Development, machine learning, Figma UI/UX Design
-- 🎯**Goals**: achieving proficiency in a variety of programming languages and frameworks
+- 🎯 **Learning**: Lua Game Development, machine learning, Figma UI/UX Design,  Descrete Mathematics, Calculus, Matrices, Basic Electronics, Algebra,  Blender.
+- 🎯**Goals**: achieving proficiency in a variety of programming languages and frameworks and  developing a 3d game in future.
 - 💬 **Ask Me About**: Flutter, Node.js, MongoDB, Nuxt.js.  
 - 🎨 **Interests**: UI/UX Design, AI, and Game Development  
 
@@ -27,21 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="Lua" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" alt="Nuxt.js" />
 </p>
-
----
-
-## 🌟 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/AbrahamKiplagat/church-sermons">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrahamKiplagat&repo=church-sermons&theme=radical">
-  </a>
-  <a href="https://github.com/AbrahamKiplagat/Hotel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrahamKiplagat&repo=Hotel&theme=radical">
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats  
 
