@@ -1,105 +1,57 @@
-<!-- ASCII Art Header -->
-<div align="center">
-
-```diff
-+---------------------------------------------------------------------+
-|   _____ _    _ ______  _____  _____ _____  ______ _____ _____ _     |
-|  / ____| |  | |  ____|/ ____|/ ____|  __ \|  ____|_   _/ ____| |    |
-| | (___ | |__| | |__  | (___ | |  __| |__) | |__    | || |    | |    |
-|  \___ \|  __  |  __|  \___ \| | |_ |  _  /|  __|   | || |    | |    |
-|  ____) | |  | | |____ ____) | |__| | | \ \| |____ _| || |____| |____|
-| |_____/|_|  |_|______|_____/ \_____|_|  \_\______|_____\_____|______|
-+---------------------------------------------------------------------+
-  _________________________________________________________
- /                                                         \
-|   ✏️  _____________________________________________      |
-|     /                                             \     |
-|    |    _   _     _     _   _   _   _   _   _     |    |
-|    |   / \ / \   / \   / \ / \ / \ / \ / \ / \    |    |
-|    |  ( H | e ) ( l ) ( l | o | 👋 |, | I |' )    |    |
-|    |   \_/ \_/   \_/   \_/ \_/ \_/ \_/ \_/ \_/    |    |
-|    |     \___   ___   ___   ___   ___   ___/       |    |
-|    |         \ /   \ /   \ /   \ /   \ /           |    |
-|    |         | A | b | r | a | h | a | m           |    |
-|    |         / \___/ \___/ \___/ \___/ \           |    |
-|    |        /                                 \     |    |
-|    |       /   🚀 Full-Stack Code Artisan       \    |    |
-|    |      /   Building Scalable Experiences     \   |    |
-|     \_____________________________________________/     |
- \________________________________________________________/
-        \_______________________________________/
-                 \______________________________/
-                          \___________________/
-                                   \_______/
-  _____________________________
- /                             \
-|  Flutter  🎯  Vue.js  🎯  React |
-|  Node.js  🎯  MongoDB 🎯  Firebase |
-|  Python   🎯  Lua     🎯  Blender |
- \_____________🎨🎨🎨_____________/
-
-## 🎨 About The Artist
-
-+ 💡 Currently painting: Video Sharing Platform canvas
-! 🎨 Learning new brush techniques:
-  - Lua Game Dev 🎮
-  - Machine Learning 🧠
-  - Figma UI/UX ✏️
-  - Blender 3D modeling 🖌️
-* 🎯 Dream project: Creating a 3D game masterpiece
-? Ask me about: Flutter | Node.js | MongoDB | Nuxt.js
-```
-  
-
-</div>
+<h1 align="center">Hello 👋, I'm Abraham</h1>
+<h3 align="center">🚀 Software Developer | Full-Stack developer | Passionate about Building Scalable Applications</h3>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-<div style="flex: 1; min-width: 300px;">
-
-### 🏆 Profile Stats
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbrahamKiplagat&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true)
-
-</div>
-
-<div style="flex: 1; min-width: 300px;">
-
-### 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbrahamKiplagat&theme=radical&background=0d1117&hide_border=true)
-
-</div>
-
-</div>
+### 📌 About Me  
+- 💡 **Currently Working On**: Video Sharing Platform  
+- 🎯 **Learning**: Lua Game Development, Machine Learning, Figma UI/UX Design, Discrete Mathematics, Calculus, Matrices, Basic Electronics, Algebra, Blender.
+- 🎯 **Goals**: Achieving proficiency in multiple programming languages and frameworks, developing a 3D game in the future.
+- 💬 **Ask Me About**: Flutter, Node.js, MongoDB, Nuxt.js  
+- 🎨 **Interests**: UI/UX Design, AI, and Game Development  
 
 ---
 
-## 🌟 Activity Radar
+## 🚀 Technologies & Tools
 
-<div style="margin: 40px 0;">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="Lua" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" alt="Nuxt.js" />
+</p>
 
-### 📅 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Daily%20Coding%20Journey)
+## 📊 GitHub Stats  
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbrahamKiplagat&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahamKiplagat&theme=radical" height="180px"/>
+</p>
 
 ---
+## 📊 Mega Stats Dashboard
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrahamKiplagat&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbrahamKiplagat&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbrahamKiplagat&theme=github_dark" width="49%"/>
 
-## 🌐 Connect With Me
+---
+## 📅 Daily Commit Activity
+<!-- Bar chart of last 30 days' commits -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Commits" alt="Commit Activity Graph" width="100%"/>
+</p>
+---
+## 🌐 Coding Activity
 
-<div align="center" style="margin-top: 40px;">
+### Monthly Overview
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=github-compact)](https://github.com/AbrahamKiplagat)
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Kiplah718071)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-kiplagat-237226241/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbrahamKiplagat)
-
-</div>
-
-<div align="center" style="margin-top: 60px;">
-
-<img src="https://komarev.com/ghpvc/?username=AbrahamKiplagat&label=Profile%20Views&color=58a6ff&style=flat" alt="profile views" />
-
-</div>
+### Daily Contributions
+![Contribution Calendar](https://ghchart.rshah.org/2CA5E0/AbrahamKiplagat)
