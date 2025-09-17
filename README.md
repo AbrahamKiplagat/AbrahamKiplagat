@@ -32,3 +32,9 @@
 ```
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Commits" alt="Commit Activity Graph" width="100%"/>
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbrahamKiplagat&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamKiplagat&layout=compact&theme=radical"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AbrahamKiplagat&theme=radical&hide_border=true"/>
+
