@@ -31,13 +31,14 @@
                                ✨ Commission your next digital masterpiece today! ✨
 --+-----------------------------------------------------------------------------------------------------------------------+
 ```
-## 📊 GitHub Stats
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=AbrahamKiplagat&show_icons=true&theme=radical&hide_border=true
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbrahamKiplagat&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamKiplagat&layout=compact&theme=radical&hide_border=true
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamKiplagat&layout=compact&theme=radical)
+https://github-profile-trophy.vercel.app/?username=AbrahamKiplagat&theme=radical&no-frame=true&row=2&column=4
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbrahamKiplagat&theme=onedark)
+</div>
 
 ## 🛠️ Technologies & Tools
 
