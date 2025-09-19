@@ -32,19 +32,21 @@
 --+-----------------------------------------------------------------------------------------------------------------------+
 ```
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=AbrahamKiplagat&show_icons=true&theme=radical
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamKiplagat&layout=compact&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbrahamKiplagat&show_icons=true&theme=radical)
 
-https://github-profile-trophy.vercel.app/?username=AbrahamKiplagat&theme=onedark
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamKiplagat&layout=compact&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbrahamKiplagat&theme=onedark)
 
 ## 🛠️ Technologies & Tools
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbrahamKiplagat&theme=react-dark&hide_border=true&area=true&custom_title=My%20Daily%20Commits" alt="Commit Activity Graph" width="100%"/>
 ### 💬 Random Developer Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
