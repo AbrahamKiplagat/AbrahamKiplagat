@@ -36,7 +36,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbrahamKiplagat&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamKiplagat&layout=compact&theme=radical)
-
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahamKiplagat&theme=radical" alt="GitHub Streak" />
 ### 🛠️ Technologies & Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
