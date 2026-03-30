@@ -29,6 +29,10 @@
 | React � • Nuxt.js            | Firebase 🔥 • Python          | Figma ✏️ • Three.js           |                         |
 +-------------------------------+-------------------------------+-------------------------------+-------------------------+
                                ✨ Commission your next digital masterpiece today! ✨
+                              + 🔭 Currently building: Creative web experiences with Three.js
+                              + 🌱 Learning: Advanced DevOps & Cloud Architecture
+                              + 💬 Ask me about: Fullstack dev, 3D integration, or creative coding
+                              + ⚡ Fun fact: I blend code with digital art to create unique experiences
 --+-----------------------------------------------------------------------------------------------------------------------+
 ```
 ### 📊 GitHub Stats
