@@ -33,6 +33,26 @@
                               + 🌱 Learning: Advanced DevOps & Cloud Architecture
                               + 💬 Ask me about: Fullstack dev, 3D integration, or creative coding
                               + ⚡ Fun fact: I blend code with digital art to create unique experiences
++                    🚀 SHORT TERM (6 months):
++   → Launch my first SaaS product built with Vue.js + Node.js
++   → Contribute to 5+ open-source projects
++   → Complete AWS Cloud Practitioner certification
++
++                    🎯 LONG TERM (2-3 years):
++   → Become a recognized Fullstack Architect in East Africa's tech scene
++   → Build a creative tech agency blending code, art, and 3D experiences
++   → Mentor 100+ aspiring developers from underrepresented communities
++   → Create an open-source 3D web framework for African cultural heritage
++
++                    🌍 IMPACT GOALS:
++   → Use technology to preserve and showcase African art and stories
++   → Bridge the gap between traditional artistry and modern web development
++   → Establish coding workshops in rural Kenyan communities
++
++                    💡 DREAM PROJECTS:
++   → Interactive 3D museum of African history using Three.js
++   → Open-source Flutter UI kit inspired by African patterns
++   → AI-powered platform for local artisans to digitize their crafts
 --+-----------------------------------------------------------------------------------------------------------------------+
 ```
 ### 📊 GitHub Stats
